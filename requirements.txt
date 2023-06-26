@@ -1,3 +1,4 @@
 pytest
 openai
 python-dotenv
+pytest-xdist
